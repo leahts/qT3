@@ -1,12 +1,24 @@
 # qT3: An app for the algorithmic deduction of Arabic verbs. 
 
-### The name comes from ق ط ع (q T 3 in Arabizi), the Arabic root related to cutting. This root might be found in more complex conjugations and declensions to become different words, also related to our app: "piece," "division," "syllable," "section," "to deduce," "to separate," "to slice," and many more. Taking any of these derivations and inputting them into our app will return the root ق ط ع.
+## Summary
 
 We implemented an iOS app where a user can enter an
 Arabic verb in the state in which they found it: with no
 short vowels and with any prefixes and suffixes attached. In turn, they will recieve a page of information, including the root, form, and linguistic features such as tense, mood, person, and number. 
 
-This app is part of a project created by Mercy Smith and Sabrina Templeton for CS 701. The back-end was created by Mercy Smith; the front-end was created by Sabrina Templeton; the team collaborated to produce the graphics and documentation. 
+### The name comes from ق ط ع (q T 3 in Arabizi), the Arabic root related to cutting. This root might be found in more complex conjugations and declensions to become different words, also related to our app: 
+- **piece**
+- **division**
+- **syllable**
+- **section**
+- **to deduce**
+- **to separate**
+- **to slice**
+- **many more!**
+
+### Taking any of these derivations in Arabic and inputting them into our app will return the root ق ط ع (q T 3) with accompanying information.
+
+This app is a project created by Mercy Smith and Sabrina Templeton for CS 701. The back-end was created by Mercy Smith; the front-end was created by Sabrina Templeton; the team collaborated to produce the graphics and documentation. 
 
 ## Motivation
 We were inspired by the fact that Arabic has predictable
