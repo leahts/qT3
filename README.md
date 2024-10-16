@@ -6,6 +6,8 @@ We implemented an iOS app where a user can enter an
 Arabic verb in the state in which they found it: with no
 short vowels and with any prefixes and suffixes attached. In turn, they will recieve a page of information, including the root, form, and linguistic features such as tense, mood, person, and number. 
 
+This app is part of a project created by Mercy Smith and Sabrina Templeton for CS 701. The back-end was created by Mercy Smith; the front-end was created by Sabrina Templeton; the team collaborated to produce the graphics and documentation. 
+
 ## Motivation
 We were inspired by the fact that Arabic has predictable
 patterns that lend itself to algorithmic deduction. As Arabic
@@ -17,7 +19,7 @@ the root, a three letter combination that is associated with
 a general core meaning. This can be difficult, especially for
 beginning Arabic learners, and this difficulty only increases
 with complex conjugations. Other existing technologies,
-such as Google Translateو provide no information other than
+such as Google Translate, provide no information other than
 a rough and oft inaccurate translation. Our app fills this gap in exisiting resources, offering an application for students to be able to input a word and get the information that is most helpful to their learning and understanding of the word, and providing them the root which allows them to properly look up the word if they choose. 
 
 ## Methods
