@@ -1,5 +1,5 @@
 # qT3: An app for the algorithmic deduction of Arabic verbs. 
-
+# Read the full report [here](Smith_Templeton_qT3_Final_Report.pdf).
 ## Summary
 
 We implemented an iOS app where a user can enter an
